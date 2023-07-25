@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 public class Funcionalidad {
 
-    ConversorMoneda monedas = new ConversorMoneda();
+    ConversorMoneda monedas = new ConversorMoneda();    
     ConvertirMonedaInverso pesos = new ConvertirMonedaInverso();
 
     public void ConvertirMoneda(double MensajeEntrada) {
